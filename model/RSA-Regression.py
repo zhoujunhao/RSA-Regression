@@ -28,7 +28,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 warnings.filterwarnings("ignore")
 
 # read the data from excel by pandas
-#path = r'Daily Gold price.xlsx'
+#path = r'../dataset/Daily Gold price.xlsx'
 path = r'../dataset/palladium-prices-historical-chart-data_gold.xlsx'
 df = pd.read_excel(path, sheet_name=0)
 
