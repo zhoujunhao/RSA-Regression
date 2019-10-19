@@ -21,7 +21,7 @@ python LSTM.py
 ```
 
 ## Experiment
-Data are obtained from the Caltrans Performance Measurement System (CPeMS) and Fremont Bridge Bicycle Counter (FBBC).
+Data are obtained from [Macrotrend](http://www.macrotrends.net). 
 ```
 device: GTX 1050
 OS: Ubuntu 16.04
