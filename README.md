@@ -9,7 +9,8 @@ Regularization Self-Attention Regression
 
 ## Train the model
 **Run command below to train the model:**
-- Based on Gold-price dataset and Palladium-price datset.
+- Training RSA-Regression model based on Gold-price dataset or Palladium-price datset.
 ```
 python RSA-Regression.py
 ```
+You can choose different datasets. Just change the path.
