@@ -13,7 +13,7 @@ Regularization Self-Attention Regression
 ```
 python RSA-Regression.py
 ```
-You can choose different datasets. Just change the path.
+You can choose different datasets. Just change the dataset path.
 
 - Train the baseline models based on Gold-price dataset or Palladium-price datset. For example, you can choose LSTM.
 ```
