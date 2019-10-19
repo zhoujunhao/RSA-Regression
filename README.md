@@ -19,3 +19,11 @@ You can choose different datasets. Just change the path.
 ```
 python LSTM.py
 ```
+
+## Experiment
+Data are obtained from the Caltrans Performance Measurement System (CPeMS) and Fremont Bridge Bicycle Counter (FBBC).
+```
+device: GTX 1050
+OS: Ubuntu 16.04
+dataset: Gold-price and Palladium-price
+```
