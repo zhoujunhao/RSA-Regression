@@ -29,7 +29,7 @@ warnings.filterwarnings("ignore")
 
 # read the data from excel by pandas
 #path = r'Daily Gold price.xlsx'
-path = r'palladium-prices-historical-chart-data_gold.xlsx'
+path = r'../dataset/palladium-prices-historical-chart-data_gold.xlsx'
 df = pd.read_excel(path, sheet_name=0)
 
 # 利用 pandas 的to_datetime 方法，把 "Date" 列的字符类型数据解析成 datetime对象，然后，把 "Date" 列用作索引。
