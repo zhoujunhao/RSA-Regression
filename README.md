@@ -19,6 +19,9 @@ You can choose different datasets. Just change the dataset path.
 ```
 python LSTM.py
 ```
+## Parameter study
+**Run command below to investigate the parameters:**
+- Investigate the impacts of parameters on the RSA Regression model.
 
 ## Experiment
 Data are obtained from [Macrotrend](http://www.macrotrends.net). 
