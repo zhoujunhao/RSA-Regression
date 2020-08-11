@@ -33,3 +33,16 @@ device: GTX 1050
 OS: Ubuntu 16.04
 dataset: Gold-price and Palladium-price
 ```
+
+## Citation
+```
+@ARTICLE{8943215,
+  author={J. {Zhou} and Z. {He} and Y. N. {Song} and H. {Wang} and X. {Yang} and W. {Lian} and H. {Dai}},
+  journal={IEEE Access}, 
+  title={Precious Metal Price Prediction Based on Deep Regularization Self-Attention Regression}, 
+  year={2020},
+  volume={8},
+  number={},
+  pages={2178-2187},}
+  ```
+  
